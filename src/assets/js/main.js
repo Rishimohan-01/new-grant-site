@@ -1,0 +1,1 @@
+alert("From main js");
