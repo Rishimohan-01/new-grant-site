@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import { useEffect, useState } from "react";
-import { Col, Container, Row } from "react-bootstrap";
+import { Col, Container, Row } from "react-bootstrap"; // eslint-disable-line
 import "./App.css";
 import Location from "./Components/Location";
 import Logo from "./Components/Logo";
